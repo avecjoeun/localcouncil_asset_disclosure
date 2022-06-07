@@ -20,6 +20,10 @@
 
 [2022 대구광역시 기초의원 정기재산변동신고 내역](https://docs.google.com/spreadsheets/d/17SJD9uYuSq3nRNiUFe_slYsYe9_pDh9h8MBTjxTCW0E/edit?usp=sharing)
 
+* 대구광역시 북구 조명균의원 원본PDF상 원 단위로 착오기재 부분 수정 (22.06.07)
+
+
+
 ## 인천광역시
 
 [2022 인천광역시 기초의원 정기재산변동신고 내역](https://docs.google.com/spreadsheets/d/17i_wAPZpAc_jIg-mwGG4Zxxv371jKA53KAu_Cr7chWo/edit?usp=sharing)
